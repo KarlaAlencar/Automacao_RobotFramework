@@ -1,2 +1,2 @@
-# Automa-o_RobotFramework
+# Automação RobotFramework
 Uma jornada para o testador do futuro. Neste curso online (no estilo bootcamp), você vai conhecer as técnicas e as práticas mais utilizadas no mercado. E implementar testes desde a fase de organização com mapa mental, do básico da Automação de Testes até o DevOps, vai automatizar testes para aplicações Web em um projeto real com aulas práticas e direto ao ponto. Tudo isso em Robot Framework uma ferramenta que está bombando na Europa e no Brasil. QANinja
